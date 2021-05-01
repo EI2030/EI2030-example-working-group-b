@@ -1,5 +1,4 @@
 ---
-slug: "/"
 title: "Welcome to working group B"
 ---
 
